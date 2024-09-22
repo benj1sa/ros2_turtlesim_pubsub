@@ -11,7 +11,7 @@ You can find the full log and documentation for this project [here](https://docs
 For additional context and functionality, please refer to the following related repositories:
 
 - **ros2_CAN_communication**: This repository demonstrates ROS2 CAN communication functionality for a RMD-X motor.
-  Repository link: [ros2_turtlesim_pubsub](https://github.com/benj1sa/ros2_CAN_communication)
+  Repository link: [ros2_CAN_communication](https://github.com/benj1sa/ros2_CAN_communication)
 
 - **ros2_hardware_interface**: This repository contains the ROS2 hardware interface implementation.  
   Repository link: [ros2_hardware_interface](https://github.com/benj1sa/ros2_hardware_interface)
